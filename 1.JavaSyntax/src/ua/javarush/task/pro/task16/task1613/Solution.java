@@ -13,7 +13,7 @@ import static java.time.DayOfWeek.*;
 public class Solution {
 
     private static final int FRIDAY = 5;
-    private static final int SATURDAY = 6;
+//    private static final int SATURDAY = 6;
     private static final int SUNDAY = 7;
     private static final int WEEKEND_START_FRIDAY_CUT_OFF_HOUR = 22;
     private static final int WEEKEND_END_SUNDAY_CUT_OFF_HOUR = 23;
