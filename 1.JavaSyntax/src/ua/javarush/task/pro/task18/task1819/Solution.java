@@ -1,0 +1,29 @@
+package ua.javarush.task.pro.task18.task1819;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Optional;
+
+/* 
+Як бути, якщо в списку є елемент null
+*/
+
+public class Solution {
+
+    public static void main(String[] args) {
+        List<String> strings = new ArrayList<>();
+        Collections.addAll(strings, "first", "second", null, "fourth", "fifth");
+
+        printList(strings);
+    }
+
+    public static void printList(List<String> list) {
+        String text = "Цей елемент дорівнює null";
+//        for (String string : list) {
+//            Optional<String> str = Optional.ofNullable(string);
+//            System.out.println(str.orElse(text));
+//        }
+        list.forEach(x -> System.out.println(Optional.ofNullable(x).orElse(text)));
+    }
+}
