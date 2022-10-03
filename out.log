@@ -6361,3 +6361,39 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-10-02 22:57:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-10-02 22:57:42 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-10-02 22:57:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:40 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-10-03 12:43:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:40 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 12:43:43 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-10-03 15:33:12 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-10-03 15:33:12 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.60 ----------
+
+2022-10-03 15:33:12 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-10-03 15:33:12 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-10-03 15:33:12 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-10-03 15:33:12 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-10-03 15:34:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-03 15:34:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-03 15:34:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-03 15:34:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-03 15:34:24 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/1.JavaSyntax/src/ua/javarush/task/pro/task18/task1812
+2022-10-03 16:29:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-03 16:29:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-03 16:29:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-03 16:29:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
