@@ -6747,3 +6747,33 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-10-07 23:48:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-10-07 23:48:23 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-10-07 23:48:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-08 12:39:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-08 12:39:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:10 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:14 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:32 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:37 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:37 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:38 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:38 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:39:38 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:42:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-08 12:42:10 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:42:12 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:49:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-08 12:49:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:49:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-08 12:49:23 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-08 12:49:23 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com
+2022-10-08 12:49:23 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush
+2022-10-08 12:49:23 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush/task
+2022-10-08 12:49:23 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task11
+2022-10-08 12:49:23 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task11/task1101
+2022-10-08 12:50:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-08 12:50:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-08 12:50:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-08 12:50:25 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
