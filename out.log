@@ -8119,3 +8119,12 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-10-15 11:42:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-10-15 11:42:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-10-15 11:44:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-16 10:41:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-16 10:41:27 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-16 10:41:29 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-10-16 10:41:32 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-10-16 10:41:32 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3. IT/1. LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1409
+2022-10-16 16:28:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-10-16 16:28:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-10-16 16:28:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-10-16 16:28:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
