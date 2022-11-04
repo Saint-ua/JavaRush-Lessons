@@ -11,8 +11,8 @@ public class Solution {
         System.out.println(cto);
     }
 
-    public static interface Businessman {
-        public void workHard();
+    public interface Businessman {
+        void workHard();
     }
 
     public static class CTO extends Director implements Businessman {

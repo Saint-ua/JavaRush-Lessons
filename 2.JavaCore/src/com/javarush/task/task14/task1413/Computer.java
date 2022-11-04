@@ -1,9 +1,9 @@
 package com.javarush.task.task14.task1413;
 
 public class Computer {
-    private Keyboard keyboard;
-    private Monitor monitor;
-    private Mouse mouse;
+    private final Keyboard keyboard;
+    private final Monitor monitor;
+    private final Mouse mouse;
 
     public Computer(Keyboard keyboard, Mouse mouse, Monitor monitor) {
         this.keyboard = keyboard;

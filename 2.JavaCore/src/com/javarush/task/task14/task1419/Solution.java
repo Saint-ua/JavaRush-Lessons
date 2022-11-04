@@ -60,7 +60,7 @@ public class Solution {
         }
 
         try{                                //6.ArrayIndexOutOfBoundsException
-            int a[] = new int[5];
+            int[] a = new int[5];
             a[6] = 9; // accessing 7th element in an array of
             // size 5
         }

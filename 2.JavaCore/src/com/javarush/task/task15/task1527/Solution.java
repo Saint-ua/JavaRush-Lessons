@@ -30,7 +30,7 @@ public class Solution {
             for (String t2 : tokens2) {
                 if (t2.matches("-?\\d+\\.\\d+")) alert(Double.parseDouble(t2));
                 else if (t2.matches("-?\\d+")) alert(Integer.parseInt(t2));
-                else alert(t2.toString());
+                else alert(t2);
             }
         }
     }

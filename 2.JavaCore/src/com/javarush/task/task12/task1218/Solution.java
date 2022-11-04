@@ -10,15 +10,15 @@ public class Solution {
     }
 
     public interface CanFly {
-        public void fly();
+        void fly();
     }
 
     public interface CanMove {
-        public void move();
+        void move();
     }
 
     public interface CanEat {
-        public void eat();
+        void eat();
     }
 
     public class Dog implements CanMove, CanEat {

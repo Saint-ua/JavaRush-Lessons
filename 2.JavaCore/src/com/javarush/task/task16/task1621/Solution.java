@@ -27,7 +27,7 @@ public class Solution {
             String name = t.getName();
             System.out.println("Name=" + name);
             try {
-                t.sleep(1);
+                sleep(1);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }

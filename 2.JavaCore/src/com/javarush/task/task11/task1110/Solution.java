@@ -10,9 +10,9 @@ public class Solution {
 
     public class Cat {
 
-        private String name;
-        private int age;
-        private int weight;
+        private final String name;
+        private final int age;
+        private final int weight;
         private int speed;
 
         public Cat(String name, int age, int weight) {

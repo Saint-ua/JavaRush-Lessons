@@ -26,7 +26,7 @@ public class Solution {
             allMoney.add(new Hryvnia(500));
         }
 
-        private List<Money> allMoney;
+        private final List<Money> allMoney;
 
         public List<Money> getAllMoney() {
             return allMoney;

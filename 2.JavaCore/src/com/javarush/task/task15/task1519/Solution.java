@@ -19,7 +19,7 @@ public class Solution {
                 else if (scan.matches("\\d+") && Integer.parseInt(scan) > 0 && Integer.parseInt(scan) < 128)
                     print(Short.parseShort(scan));
                 else if (scan.matches("-?\\d+")) print(Integer.parseInt(scan));
-                else print(scan.toString());
+                else print(scan);
             }
         } catch (IOException e) {
             throw new RuntimeException(e);

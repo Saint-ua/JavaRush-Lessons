@@ -56,7 +56,7 @@ public class Solution {
 
     public static void printMatrix(Object m, Object n, Object value) {
         System.out.println("999");
-        printMatrix((char) 'A', (char) 'B', (char) 'C');
+        printMatrix('A', 'B', 'C');
     }
 
     public static void printMatrix(char m, char n, char value) {

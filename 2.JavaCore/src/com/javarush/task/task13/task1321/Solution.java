@@ -8,7 +8,7 @@ package com.javarush.task.task13.task1321;
 public class Solution {
 
     public static void main(String[] args) {
-        System.out.println(Dream.HOBBY.toString());
+        System.out.println(Dream.HOBBY);
         System.out.println(new Hobby().INDEX);
     }
 
@@ -16,7 +16,7 @@ public class Solution {
     }
 
     interface Dream {
-        public static Hobby HOBBY = new Hobby();
+        Hobby HOBBY = new Hobby();
     }
 
     static class Hobby implements Desire, Dream {

@@ -19,7 +19,7 @@ public class Solution {
 
     //add your code below - добавь код ниже
     public static class Hryvnia extends Money {
-        private double amount = 123d;
+        private final double amount = 123d;
 
         public Hryvnia getMoney() {
             return this;

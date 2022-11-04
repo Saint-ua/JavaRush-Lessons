@@ -9,8 +9,8 @@ public class Solution {
         Pegasus horse = new Pegasus();
     }
 
-    public static interface CanFly {
-        public void fly();
+    public interface CanFly {
+        void fly();
     }
 
     public static class Horse {

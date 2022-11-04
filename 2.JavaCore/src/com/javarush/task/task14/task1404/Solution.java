@@ -42,7 +42,7 @@ public class Solution {
     }
 
     static class Cat {
-        private String name;
+        private final String name;
 
         protected Cat(String name) {
             this.name = name;

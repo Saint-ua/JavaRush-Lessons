@@ -33,7 +33,7 @@ public class Solution {
 
     }
 
-    static interface Apartment {
+    interface Apartment {
     }
 
     static class OneRoomApt implements Apartment {

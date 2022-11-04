@@ -18,7 +18,7 @@ public class Solution {
         public void run() {
             try {
                 while (true) {
-                    System.out.println(toString());
+                    System.out.println(this);
                     countIndexUp += 1;
                     if (countIndexUp == number+1) return;
                     Thread.sleep(500);
@@ -40,7 +40,7 @@ public class Solution {
         public void run() {
             try {
                 while (true) {
-                    System.out.println(toString());
+                    System.out.println(this);
                     countIndexDown -= 1;
                     if (countIndexDown == 0) return;
                     Thread.sleep(500);

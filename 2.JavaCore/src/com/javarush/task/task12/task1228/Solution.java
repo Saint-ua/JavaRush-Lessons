@@ -10,20 +10,20 @@ public class Solution {
         System.out.println(human);
     }
 
-    public static interface Worker {
-        public void workLazy();
+    public interface Worker {
+        void workLazy();
     }
 
-    public static interface Businessman {
-        public void workHard();
+    public interface Businessman {
+        void workHard();
     }
 
-    public static interface Secretary {
-        public void workLazy();
+    public interface Secretary {
+        void workLazy();
     }
 
-    public static interface Miner {
-        public void workVeryHard();
+    public interface Miner {
+        void workVeryHard();
     }
 
     public static class Human implements Businessman, Worker, Secretary {

@@ -16,7 +16,7 @@ public class Solution {
 
     interface Button extends SimpleObject {
 
-        final String NAME = "Submit";
+        String NAME = "Submit";
 
         String onPress(Object o);
     }

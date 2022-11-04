@@ -8,8 +8,8 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        System.out.println(Dream.HOBBY.toString());
-        System.out.println(new Hobby().toString());
+        System.out.println(Dream.HOBBY);
+        System.out.println(new Hobby());
 
     }
 
@@ -17,7 +17,7 @@ public class Solution {
     }
 
     interface Dream {
-        public static Hobby HOBBY = new Hobby();
+        Hobby HOBBY = new Hobby();
     }
 
     static class Hobby implements Dream, Desire {

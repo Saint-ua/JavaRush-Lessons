@@ -29,7 +29,7 @@ public class Solution {
     }
 
     public static class Violin implements MusicalInstrument{
-        private String owner;
+        private final String owner;
 
         public Violin(String owner) {
             this.owner = owner;
