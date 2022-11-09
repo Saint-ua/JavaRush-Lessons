@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="desktop-game-engine" level="project" />
+    <orderEntry type="library" name="src" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
