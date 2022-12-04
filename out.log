@@ -43425,3 +43425,27 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-12-04 21:17:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-12-04 21:17:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-04 21:17:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 21:18:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 21:18:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-04 21:18:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-04 21:18:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-04 21:18:24 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3.IT/1.LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1913
+2022-12-04 21:22:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 21:22:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:22:46 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-04 21:22:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:22:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 21:24:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 21:24:18 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-04 21:24:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-04 21:24:22 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-04 21:24:22 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/KOSTA/3.IT/1.LEARNING/JAVA/JavaRush Projects/JavaRushTasks/2.JavaCore/src/com/javarush/task/task19/task1914
+2022-12-04 22:21:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 22:21:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 22:23:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 22:23:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-04 22:23:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 22:24:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 22:24:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 22:24:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-04 22:24:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
